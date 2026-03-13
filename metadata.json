@@ -1,0 +1,5 @@
+{
+  "name": "Face Motion Maze",
+  "description": "A head-controlled maze game using face tracking and motion detection.",
+  "requestFramePermissions": ["camera"]
+}
